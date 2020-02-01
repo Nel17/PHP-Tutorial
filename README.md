@@ -1,4 +1,4 @@
-# PHP CRUD Tutorial by bossROD
+# PHP Tutorial by bossROD
 
 ## Getting Started:
 
